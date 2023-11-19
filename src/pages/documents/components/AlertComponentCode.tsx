@@ -8,7 +8,7 @@ function AlertComponentCode() {
         Here's the code for the Alert component that you can copy and use in
         your project:
       </p>
-      <p className="text-gray-700 bg-blue-50 p-2 rounded">
+      <p className="text-gray-700 bg-red-50 p-2 rounded">
         Note- You'll need to install TailwindCSS, uuid, @types/uuid,
         tailwind-merge and react-icons packages first.
       </p>

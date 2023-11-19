@@ -5,7 +5,7 @@ function HeadingPage() {
   return (
     <div className="p-4 flex flex-col gap-4 items-start">
       <div className="flex flex-col gap-2 flex-wrap">
-        <h1 className="text-3xl font-semibold text-cyan-800">
+        <h1 className="text-3xl font-semibold text-red-500">
           Heading Component
         </h1>
 
@@ -50,7 +50,7 @@ function HeadingPage() {
           Here's the code for the Heading component that you can copy and use in
           your project:
         </p>
-        <p className="text-gray-700 bg-blue-50 p-2 rounded">
+        <p className="text-gray-700 bg-red-50 p-2 rounded">
           Note: You'll need to install Tailwind CSS & tailwind-merge to use this
           component.
         </p>

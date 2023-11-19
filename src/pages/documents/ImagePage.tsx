@@ -21,7 +21,7 @@ function ImagePage() {
 
       <div className="flex flex-col gap-2 flex-wrap">
         <h3 className="text-2xl font-semibold">Usage Examples</h3>
-        <p className="text-gray-700 bg-blue-50 p-2 rounded">
+        <p className="text-gray-700 bg-red-50 p-2 rounded">
           Note: The width of the image is responsive and depends on the width of
           its parent container.
         </p>
@@ -82,7 +82,7 @@ function ImagePage() {
           Here's the code for the Image component that you can copy and use in
           your project:
         </p>
-        <p className="text-gray-700 bg-blue-50 p-2 rounded">
+        <p className="text-gray-700 bg-red-50 p-2 rounded">
           Note: You'll need to install Tailwind CSS & tailwind-merge to use this
           component.
         </p>

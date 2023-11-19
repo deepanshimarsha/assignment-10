@@ -34,7 +34,7 @@ function CardPage() {
             Below are examples of how to use the Card component with different
             variations.
           </p>
-          <p className="text-gray-700 bg-blue-50 p-2 rounded">
+          <p className="text-gray-700 bg-red-50 p-2 rounded">
             Note: You'll need to import the necessary components and icons for
             these examples.
           </p>
@@ -181,7 +181,7 @@ function CardPage() {
             Here's the code for the Card component that you can copy and use in
             your project:
           </p>
-          <p className="text-gray-700 bg-blue-50 p-2 rounded">
+          <p className="text-gray-700 bg-red-50 p-2 rounded">
             Note: You'll need to install Tailwind CSS & tailwind-merge to use
             this component.
           </p>
