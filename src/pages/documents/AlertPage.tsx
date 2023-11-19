@@ -41,7 +41,7 @@ function AlertPage() {
   return (
     <div className="p-4 flex flex-col gap-4 items-start">
       <div className="flex flex-col gap-2 flex-wrap">
-        <h1 className="text-3xl font-semibold text-cyan-800">
+        <h1 className="text-3xl font-semibold text-red-500">
           Alert Component
         </h1>
 
@@ -179,7 +179,7 @@ function AlertPage() {
 
         <button
           onClick={showAlert}
-          className="bg-cyan-700 text-white hover:bg-cyan-800 px-4 py-2 rounded w-fit"
+          className="bg-red-500 text-white hover:bg-red-800 px-4 py-2 rounded w-fit"
         >
           Show Custom Alert
         </button>

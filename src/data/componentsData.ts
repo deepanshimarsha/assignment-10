@@ -6,15 +6,22 @@ export const componentsData: { id: number; title: string; urlSlug: string }[] =
       urlSlug: "avatar",
     },
     {
-      id: 2,
-      title: "Alert",
-      urlSlug: "alert",
+      id: 8,
+      title: "Card",
+      urlSlug: "card",
     },
+  
     {
       id: 3,
       title: "Badge",
       urlSlug: "badge",
     },
+    {
+      id: 7,
+      title: "Image",
+      urlSlug: "image",
+    },
+   
     {
       id: 4,
       title: "Button",
@@ -31,13 +38,9 @@ export const componentsData: { id: number; title: string; urlSlug: string }[] =
       urlSlug: "text",
     },
     {
-      id: 7,
-      title: "Image",
-      urlSlug: "image",
+      id: 2,
+      title: "Alert",
+      urlSlug: "alert",
     },
-    {
-      id: 8,
-      title: "Card",
-      urlSlug: "card",
-    },
+  
   ];

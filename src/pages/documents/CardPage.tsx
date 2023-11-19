@@ -16,7 +16,7 @@ function CardPage() {
   return (
     <div className="p-4 flex flex-col gap-4 items-start">
       <div className="flex flex-col gap-2 flex-wrap">
-        <h1 className="text-3xl font-semibold text-cyan-800">Card Component</h1>
+        <h1 className="text-3xl font-semibold text-red-500">Card Component</h1>
 
         <Text className="text-gray-700">
           The Card component allows you to create cards with various

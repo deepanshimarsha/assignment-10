@@ -1,5 +1,5 @@
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
-import { coldarkCold } from "react-syntax-highlighter/dist/esm/styles/prism";
+import { twilight } from "react-syntax-highlighter/dist/esm/styles/prism";
 
 interface CodeExampleProps {
   code: string;
@@ -10,7 +10,7 @@ function CodeExample({ code }: CodeExampleProps) {
     <div className="text-sm">
       <SyntaxHighlighter
         language="tsx"
-        style={coldarkCold}
+        style={twilight}
         wrapLongLines={true}
       >
         {code}

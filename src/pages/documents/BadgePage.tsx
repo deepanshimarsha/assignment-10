@@ -10,7 +10,7 @@ function BadgePage() {
   return (
     <div className="p-4 flex flex-col gap-4 items-start">
       <div className="flex flex-col gap-2 flex-wrap">
-        <h1 className="text-3xl font-semibold text-cyan-800">
+        <h1 className="text-3xl font-semibold text-red-500">
           Badge Component
         </h1>
 
